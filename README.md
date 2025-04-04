@@ -1,4 +1,4 @@
-# app WeatherApp
+# app
 This project was generated with Angular CLI version 16.0.1.
 
 # Development server
